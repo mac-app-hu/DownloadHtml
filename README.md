@@ -1,2 +1,2 @@
 # DownloadHtml
-html的img下载
+html的ifdmg下载
